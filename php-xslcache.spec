@@ -6,7 +6,7 @@
 Summary:	A modified XSL extension that caches the parsed XSL stylesheet representation
 Name:		php-%{modname}
 Version:	0.7.1
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		Development/PHP
 License:	PHP License
 URL:		http://pecl.php.net/package/xslcache/
