@@ -9,7 +9,7 @@ Version:	0.7.1
 Release:	%mkrel 13
 Group:		Development/PHP
 License:	PHP License
-URL:		http://pecl.php.net/package/xslcache/
+URL:		https://pecl.php.net/package/xslcache/
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	apache-devel >= 2.2.0
